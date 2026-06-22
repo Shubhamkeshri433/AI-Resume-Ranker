@@ -2,7 +2,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 model = SentenceTransformer(
-    "all-MiniLM-L6-v2"
+    "BAAI/bge-small-en-v1.5"
 )
 
 def calculate_similarity_score(
