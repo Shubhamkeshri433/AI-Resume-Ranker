@@ -357,9 +357,8 @@ AI-Resume-Ranker/
 ├── ranker.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-└── outputs/
+images/*****
+.gitignore
 ```
 
 ---
